@@ -3,7 +3,6 @@ class Kforward < Formula
   desc "Port-forwarding helper for Kubernetes services using kubectl"
   homepage "https://github.com/sanspareilsmyn/kforward"
   url "https://github.com/sanspareilsmyn/kforward/archive/refs/tags/0.1.0.tar.gz"
-  # 위 URL의 tar.gz 파일에 대한 SHA256 체크섬 값으로 변경하세요. (아래 계산 방법 참조)
   sha256 "630eae2778efbce76f3ca33cf2248e71b11c335264147b38a714bdd3666475ec"
   license "Apache License 2.0"
 
